@@ -14,6 +14,6 @@ This is a tool to create files of any size.
 
 実装の説明は以下サイトを参照してください。
 
-任意のサイズのファイルを作成するツール - PG日誌
+【C#】Zip圧縮できないファイルを作成するツール - PG日誌
 
 https://takap-tech.com/entry/2021/06/04/213555
